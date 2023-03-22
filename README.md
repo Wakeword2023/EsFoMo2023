@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # PyTorch Wake-Word Detection with Model Distillation and Live Demo
 ## Project Overview
 
@@ -170,7 +169,3 @@ Running this command will visualize the following from performing training / val
 * Validation Recall vs Epoch  
 * Validation F1 vs Epoch   
 =======
-# Repository of Dissecting Efficient Convolution Networks for Wake Word Detection
-
-Appendix and code
->>>>>>> 4ea94efc7c5a2834078cdd5a49e2e6150a184863
